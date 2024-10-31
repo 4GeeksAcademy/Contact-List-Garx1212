@@ -1,0 +1,16 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(https://images6.alphacoders.com/132/1328839.png);
+    min-height: 100vh;
+}
+.image {
+    border-radius: 100%;
+    width: 140px;
+    height: 140px;
+}
+
+.container{
+    width: 60%;
+}
