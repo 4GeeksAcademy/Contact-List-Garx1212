@@ -1,7 +1,7 @@
 const getState = ({ getStore, getActions, setStore }) => {
 	return {
 		store: {
-			urlAPI: "",
+			urlAPI: "https://playground.4geeks.com/contact/agendas/Miguel/contacts",
 			agenda: [],
 		},
 		actions: {
